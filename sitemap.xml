@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://endbaddesign.com/blog/church-websites/</loc>
+    <lastmod>2017-07-13T23:30:57-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://endbaddesign.com/blog/tools-i-use/</loc>
     <lastmod>2017-07-03T22:37:56-05:00</lastmod>
   </url>
@@ -34,7 +39,7 @@
   
   <url>
     <loc>http://endbaddesign.com/blog/</loc>
-    <lastmod>2017-07-03T22:37:56-05:00</lastmod>
+    <lastmod>2017-07-13T23:30:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,7 +50,7 @@
   
   <url>
     <loc>http://endbaddesign.com/</loc>
-    <lastmod>2017-07-03T22:37:56-05:00</lastmod>
+    <lastmod>2017-07-13T23:30:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
